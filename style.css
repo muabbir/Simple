@@ -171,7 +171,7 @@ header .right span a:hover{
 
 
 nav{
-	position: absolute;
+	position: fixed;
 	width: 50px;
 	top: 0;
 	right: 10px;
